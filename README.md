@@ -17,7 +17,6 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
@@ -151,5 +150,3 @@ python scripts/get_vendor_summary.py
 - Reprice slow-moving, high-margin brands
 - Clear unsold inventory strategically
 - Improve marketing for underperforming vendors
-
----
